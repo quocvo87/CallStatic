@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "TrueMe\\": "./src",
+            "YourWeb\\": "./yourweb"
+        }
+    },
+    "require": {
+        "doctrine/common": "^2.8"
+    }
+}
